@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cursor VIP</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #00ff9d;
+            --background-color: #000000;
+            --text-color: #ffffff;
+            --card-bg: #111111;
+            --border-color: #222222;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .hero {
+            background: var(--card-bg);
+            padding: 8rem 2rem;
+            text-align: center;
+            border-bottom: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 2rem;
+        }
+
+        .hero h1 {
+            font-size: 5rem;
+            font-weight: 800;
+            color: var(--primary-color);
+            margin-bottom: 0;
+            letter-spacing: -0.02em;
+            line-height: 1.1;
+            text-shadow: 0 0 20px rgba(0, 255, 157, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1rem;
+        }
+
+        .hit-badge {
+            font-size: 1.5rem;
+            background: linear-gradient(45deg, #ff4d4d, #f9004d);
+            padding: 0.3rem 0.8rem;
+            border-radius: 4px;
+            color: white;
+            text-shadow: none;
+            font-weight: 700;
+            letter-spacing: 0.05em;
+            transform: rotate(-12deg);
+            box-shadow: 0 0 20px rgba(255, 77, 77, 0.3);
+        }
+
+        .hero p {
+            font-size: 2rem;
+            color: var(--text-color);
+            max-width: 800px;
+            margin: 0 auto;
+            padding-bottom: 1.5rem;
+            opacity: 0.95;
+            line-height: 1.5;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            background: linear-gradient(45deg, #fff, rgba(255, 255, 255, 0.7));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-transform: uppercase;
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            position: relative;
+            display: inline-block;
+        }
+
+        .hero p::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--primary-color), transparent);
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 0.75rem 2rem;
+            background: rgba(0, 255, 157, 0.1);
+            color: var(--primary-color);
+            font-size: 1.1rem;
+            font-weight: 600;
+            border: 1px solid var(--primary-color);
+            border-radius: 4px;
+            letter-spacing: 0.02em;
+            margin: 0;
+        }
+
+        .download-button {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: var(--primary-color);
+            color: var(--background-color);
+            font-size: 1.2rem;
+            font-weight: 700;
+            border: none;
+            border-radius: 4px;
+            margin-top: 2rem;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            cursor: pointer;
+            box-shadow: 0 0 20px rgba(0, 255, 157, 0.3);
+        }
+
+        .download-button:hover {
+            box-shadow: 0 0 30px rgba(0, 255, 157, 0.5);
+        }
+
+        .download-button i {
+            margin-right: 0.5rem;
+        }
+
+        .status-badge .time {
+            display: inline-block;
+            margin-left: 0.75rem;
+            font-family: 'Courier New', monospace;
+            font-size: 1em;
+            font-weight: 500;
+        }
+
+        .main-content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+            padding: 2rem;
+            border: 1px solid var(--border-color);
+        }
+
+        .section h2 {
+            color: var(--primary-color);
+            margin-bottom: 1rem;
+            font-size: 1.25rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .section i {
+            font-size: 1.5rem;
+            color: var(--primary-color);
+        }
+
+        .section p {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: var(--text-color);
+            opacity: 0.8;
+        }
+
+        .support-section {
+            text-align: center;
+            padding: 3rem 2rem;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            margin-top: 0;
+        }
+
+        .support-section h2 {
+            font-size: 1.5rem;
+            margin-bottom: 2rem;
+            color: var(--primary-color);
+        }
+
+        .support-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+            gap: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .support-item {
+            width: 50px;
+            height: 50px;
+            background: transparent;
+            border: 1px solid var(--border-color);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            text-decoration: none;
+            margin: 0 auto;
+            transition: all 0.2s ease;
+            position: relative;
+        }
+
+        .support-item:hover {
+            border-color: var(--primary-color);
+            transform: translateY(-2px);
+        }
+
+        .support-icon {
+            font-size: 1.5rem;
+            color: var(--primary-color);
+            transition: all 0.2s ease;
+        }
+
+        .support-item:hover .support-icon {
+            transform: scale(1.1);
+        }
+
+        .support-item::after {
+            content: attr(data-tooltip);
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 0.5rem 1rem;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            font-size: 0.875rem;
+            white-space: nowrap;
+            opacity: 0;
+            visibility: hidden;
+            transition: all 0.2s ease;
+            margin-bottom: 0.5rem;
+        }
+
+        .support-item:hover::after {
+            opacity: 1;
+            visibility: visible;
+            transform: translateX(-50%) translateY(-5px);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-color);
+            border-top: 1px solid var(--border-color);
+            margin-top: 2rem;
+        }
+
+        .footer p {
+            opacity: 0.5;
+            font-size: 0.9rem;
+            margin: 1rem 0;
+        }
+
+        .footer .author {
+            color: var(--primary-color);
+            font-weight: 500;
+            opacity: 0.8;
+        }
+
+        .footer .author a {
+            color: var(--primary-color);
+            text-decoration: none;
+            padding: 0.3rem 0.8rem;
+            border: 1px solid var(--primary-color);
+            border-radius: 4px;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .footer .author a::before {
+            content: '\f09b';
+            font-family: 'Font Awesome 6 Brands';
+            font-size: 1.1em;
+        }
+
+        .footer .author a:hover {
+            background: rgba(0, 255, 157, 0.1);
+            box-shadow: 0 0 15px rgba(0, 255, 157, 0.2);
+        }
+
+        .footer .heart {
+            display: inline-block;
+            animation: heartbeat 1.5s ease-in-out infinite;
+            color: #ff4d4d;
+        }
+
+        @keyframes heartbeat {
+            0% { transform: scale(1); }
+            25% { transform: scale(1.2); }
+            50% { transform: scale(1); }
+            75% { transform: scale(0.8); }
+            100% { transform: scale(1); }
+        }
+
+        @media (max-width: 768px) {
+            .hero {
+                padding: 4rem 1rem;
+            }
+
+            .hero h1 {
+                font-size: 3rem;
+            }
+
+            .hero p {
+                font-size: 1.25rem;
+                padding: 0 1rem;
+            }
+
+            .status-badge {
+                font-size: 0.9rem;
+                padding: 0.5rem 1.2rem;
+            }
+
+            .main-content {
+                padding: 1rem;
+            }
+
+            .section {
+                padding: 1.5rem;
+                margin-bottom: 1.5rem;
+            }
+
+            .section h2 {
+                font-size: 1.5rem;
+            }
+
+            .section p {
+                font-size: 1rem;
+                line-height: 1.5;
+            }
+
+            .download-section {
+                padding: 2rem 1rem;
+            }
+
+            .download-section .download-button {
+                width: 100%;
+                text-align: center;
+                padding: 1rem 2rem;
+                font-size: 1.1rem;
+            }
+
+            .download-section .license {
+                font-size: 0.8rem;
+                padding: 0.8rem;
+                margin-top: 1rem;
+            }
+
+            .hit-badge {
+                font-size: 1rem;
+                padding: 0.2rem 0.6rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .hero h1 {
+                font-size: 2.5rem;
+            }
+
+            .hero p {
+                font-size: 1.1rem;
+            }
+
+            [style*="display: grid"] {
+                grid-template-columns: 1fr !important;
+            }
+
+            .section p[style*="font-size: 1.1rem"] {
+                font-size: 1rem !important;
+                line-height: 1.5 !important;
+            }
+
+            .section div[style*="padding: 1.5rem"] {
+                padding: 1rem !important;
+            }
+
+            .section h3[style*="font-size: 1.2rem"] {
+                font-size: 1.1rem !important;
+            }
+
+            .section p[style*="opacity: 0.9"] {
+                font-size: 0.9rem !important;
+            }
+
+            .support-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 0.8rem;
+            }
+
+            .support-item {
+                width: 40px;
+                height: 40px;
+            }
+
+            .support-icon {
+                font-size: 1.2rem;
+            }
+        }
+
+        .download-section {
+            padding: 4rem 2rem;
+            text-align: center;
+            margin-top: 3rem;
+            margin-bottom: 3rem;
+            background: linear-gradient(180deg, rgba(0, 255, 157, 0.05) 0%, rgba(0, 255, 157, 0) 100%);
+        }
+
+        .beta-heading {
+            font-size: 2.5rem;
+            font-weight: 800;
+            color: #ffa500;
+            margin-bottom: 2.5rem;
+            letter-spacing: 0.2em;
+            text-shadow: 0 0 20px rgba(255, 165, 0, 0.3);
+            position: relative;
+            display: inline-block;
+        }
+
+        .beta-heading::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, #ffa500, transparent);
+        }
+
+        .download-section h2 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            text-shadow: 0 0 20px rgba(0, 255, 157, 0.2);
+        }
+
+        .download-section p {
+            color: var(--text-color);
+            opacity: 0.9;
+            margin-bottom: 2.5rem;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+            font-size: 1.1rem;
+            line-height: 1.6;
+        }
+
+        .download-section .download-button {
+            margin-top: 0;
+            padding: 1.2rem 3rem;
+            font-size: 1.3rem;
+            letter-spacing: 0.02em;
+            background: linear-gradient(45deg, var(--primary-color), #00cc7d);
+        }
+
+        .download-section .download-button:hover {
+            box-shadow: 0 0 40px rgba(0, 255, 157, 0.4);
+        }
+
+        .download-section .license {
+            font-size: 0.85rem;
+            color: var(--text-color);
+            opacity: 0.7;
+            margin-top: 1.5rem;
+            padding: 1rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .os-badges {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .os-badge {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1.2rem;
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            color: var(--text-color);
+            font-size: 0.9rem;
+            background: var(--card-bg);
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .os-badge.untested {
+            opacity: 0.7;
+            border-style: dashed;
+        }
+
+        .os-badge.untested::after {
+            content: '⚡ Not tested';
+            position: absolute;
+            bottom: -22px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.7rem;
+            color: #ffa500;
+            white-space: nowrap;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 2px 8px;
+            border-radius: 3px;
+            letter-spacing: 0.02em;
+        }
+
+        .os-badge i {
+            font-size: 1.2rem;
+            color: var(--primary-color);
+            transition: all 0.3s ease;
+        }
+
+        .os-badge.untested i {
+            color: #ffa500;
+        }
+
+        .os-badge:not(.untested) {
+            background: linear-gradient(45deg, rgba(0, 255, 157, 0.1), rgba(0, 255, 157, 0));
+            border-color: var(--primary-color);
+        }
+
+        .os-badge:not(.untested)::after {
+            content: '✓ Tested';
+            position: absolute;
+            bottom: -22px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 0.7rem;
+            color: var(--primary-color);
+            white-space: nowrap;
+            background: rgba(0, 0, 0, 0.8);
+            padding: 2px 8px;
+            border-radius: 3px;
+            letter-spacing: 0.02em;
+        }
+
+        @media (max-width: 480px) {
+            .os-badges {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <h1>Cursor <span class="hit-badge">HIT</span> VIP</h1>
+        <p>Automatic Cursor Registration</p>
+        <span class="status-badge">Active Development</span>
+    </section>
+
+    <div class="main-content">
+        <div class="section">
+            <h2><i class="fas fa-rocket"></i> About Project</h2>
+            <p>Cursor VIP is a powerful tool for automating the registration and activation process of Cursor IDE. It provides fully automatic account creation and Cursor activation without manual intervention, giving instant access to advanced IDE features. The project's source code is closed and not available for public access. This project was developed to demonstrate the possibilities of automation in development.</p>
+        </div>
+
+        <div class="section">
+            <h2><i class="fas fa-comment"></i> From Author</h2>
+            <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">
+                Hi! I created this project to understand what can be achieved in modern development. I wanted to explore the boundaries of automation and see how far we can go in this direction. In this case, I chose Cursor IDE as an example for study.
+            </p>
+            
+            <p style="font-size: 1.1rem; line-height: 1.7; margin-bottom: 1.5rem;">
+                This is purely a research project and personal experiment. I don't sell the code, don't distribute its parts, and don't provide access to it. The project exists solely to explore the possibilities of automation in practice.
+            </p>
+
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;">
+                <div style="padding: 1.5rem; background: rgba(0, 255, 157, 0.05); border: 1px solid var(--border-color); border-radius: 8px;">
+                    <i class="fas fa-flask" style="color: var(--primary-color); font-size: 1.5rem; margin-bottom: 1rem; display: block;"></i>
+                    <h3 style="color: var(--primary-color); margin-bottom: 0.5rem; font-size: 1.2rem;">Research Project</h3>
+                    <p style="opacity: 0.9; font-size: 1rem;">Exploring the boundaries of modern automation</p>
+                </div>
+                <div style="padding: 1.5rem; background: rgba(0, 255, 157, 0.05); border: 1px solid var(--border-color); border-radius: 8px;">
+                    <i class="fas fa-lock" style="color: var(--primary-color); font-size: 1.5rem; margin-bottom: 1rem; display: block;"></i>
+                    <h3 style="color: var(--primary-color); margin-bottom: 0.5rem; font-size: 1.2rem;">Personal Experiment</h3>
+                    <p style="opacity: 0.9; font-size: 1rem;">Code is not distributed, project is for research only</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="download-section">
+            <h2 class="beta-heading">BETA</h2>
+            <div class="os-badges">
+                <div class="os-badge">
+                    <i class="fab fa-apple"></i>
+                    macOS
+                </div>
+                <div class="os-badge untested">
+                    <i class="fab fa-windows"></i>
+                    Windows
+                </div>
+                <div class="os-badge untested">
+                    <i class="fab fa-linux"></i>
+                    Linux
+                </div>
+            </div>
+            <a href="https://github.com/DevCicadaY/CursorVIPFeedback/releases/" class="download-button">
+                <i class="fas fa-download"></i> DOWNLOAD
+            </a>
+            <p class="license">By using this tool, you acknowledge that you understand all risks associated with its use, including potential bugs and instability. The tool is provided "as is" without any warranties.</p>
+        </div>
+
+        <div class="support-section">
+            <h2>Support the Project</h2>
+            <div class="support-grid">
+                <a href="https://github.com/DevCicadaY/CursorVIPFeedback" class="support-item" data-tooltip="Star the repository">
+                    <div class="support-icon">
+                        <i class="fas fa-star"></i>
+                    </div>
+                </a>
+                <a href="https://youtube.com/@DevCicadaY" class="support-item" data-tooltip="YouTube channel">
+                    <div class="support-icon">
+                        <i class="fab fa-youtube"></i>
+                    </div>
+                </a>
+                <a href="https://twitter.com/devcicaday" class="support-item" data-tooltip="Twitter">
+                    <div class="support-icon">
+                        <i class="fab fa-twitter"></i>
+                    </div>
+                </a>
+                <a href="https://github.com/DevCicadaY/CursorVIPFeedback/issues" class="support-item" data-tooltip="Help with bugs">
+                    <div class="support-icon">
+                        <i class="fas fa-bug"></i>
+                    </div>
+                </a>
+                <a href="https://github.com/DevCicadaY/CursorVIPFeedback/issues" class="support-item" data-tooltip="New ideas">
+                    <div class="support-icon">
+                        <i class="fas fa-lightbulb"></i>
+                    </div>
+                </a>
+                <a href="https://buymeacoffee.com/devcicadaym" class="support-item" data-tooltip="Buy me a coffee">
+                    <div class="support-icon">
+                        <i class="fas fa-coffee"></i>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>With <span class="heart">❤️</span> from a beginner developer to the community</p>
+        <p class="author"><a href="https://github.com/DevCicadaY">DevCicadaY</a></p>
+    </footer>
+</body>
+</html> 
