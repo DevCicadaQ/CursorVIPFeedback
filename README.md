@@ -3,7 +3,6 @@
 # 🚀 Cursor VIP
 
 ![Status](https://img.shields.io/badge/Status-Active_Development-green)
-![Issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback?color=blue)
 
 </div>
 
