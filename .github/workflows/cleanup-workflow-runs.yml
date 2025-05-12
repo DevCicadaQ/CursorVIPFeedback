@@ -1,0 +1,48 @@
+name: Cleanup Workflow Runs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Delete workflow runs
+        env:
+          GH_PAT: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          # Install GitHub CLI
+          echo "Installing GitHub CLI..."
+          sudo apt-get update && sudo apt-get install -y gh
+
+          echo "Cleaning up workflow runs..."
+
+          # Authentication without conflict with GITHUB_TOKEN
+          # Using API directly with authorization header
+
+          echo "Getting workflow runs..."
+          # Create authorization header
+          auth_header="Authorization: token $GH_PAT"
+
+          # Get list of workflow runs
+          response=$(curl -s -H "$auth_header" "https://api.github.com/repos/$REPO/actions/runs?per_page=100")
+
+          # Extract IDs
+          run_ids=$(echo "$response" | jq -r '.workflow_runs[].id')
+
+          # Output the number of runs found
+          count=$(echo "$run_ids" | wc -l)
+          echo "Found $count workflow runs to delete"
+
+          # Delete each run via API
+          for run_id in $run_ids; do
+            echo "Deleting run ID: $run_id"
+            curl -s -X DELETE -H "$auth_header" "https://api.github.com/repos/$REPO/actions/runs/$run_id"
+          done
+
+          echo "Cleanup completed."
