@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -306,11 +307,25 @@
         }
 
         @keyframes heartbeat {
-            0% { transform: scale(1); }
-            25% { transform: scale(1.2); }
-            50% { transform: scale(1); }
-            75% { transform: scale(0.8); }
-            100% { transform: scale(1); }
+            0% {
+                transform: scale(1);
+            }
+
+            25% {
+                transform: scale(1.2);
+            }
+
+            50% {
+                transform: scale(1);
+            }
+
+            75% {
+                transform: scale(0.8);
+            }
+
+            100% {
+                transform: scale(1);
+            }
         }
 
         @media (max-width: 768px) {
@@ -416,6 +431,17 @@
             .support-icon {
                 font-size: 1.2rem;
             }
+
+            .release-heading {
+                font-size: 2rem;
+                margin-bottom: 2rem;
+            }
+
+            .release-subtitle {
+                font-size: 0.9rem;
+                margin-top: 0.3rem;
+                margin-bottom: 1.5rem;
+            }
         }
 
         .download-section {
@@ -426,7 +452,7 @@
             background: linear-gradient(180deg, rgba(0, 255, 157, 0.05) 0%, rgba(0, 255, 157, 0) 100%);
         }
 
-        .beta-heading {
+        .release-heading {
             font-size: 2.5rem;
             font-weight: 800;
             color: #ffa500;
@@ -437,7 +463,7 @@
             display: inline-block;
         }
 
-        .beta-heading::after {
+        .release-heading::after {
             content: '';
             position: absolute;
             bottom: -10px;
@@ -446,6 +472,16 @@
             width: 60%;
             height: 2px;
             background: linear-gradient(90deg, transparent, #ffa500, transparent);
+        }
+
+        .release-subtitle {
+            color: var(--primary-color);
+            font-size: 1.1rem;
+            margin-top: 0.5rem;
+            margin-bottom: 2rem;
+            opacity: 0.9;
+            font-weight: 500;
+            letter-spacing: 0.05em;
         }
 
         .download-section h2 {
@@ -571,6 +607,7 @@
         }
     </style>
 </head>
+
 <body>
     <section class="hero">
         <h1>Cursor <span class="hit-badge">HIT</span> VIP</h1>
@@ -609,7 +646,8 @@
         </div>
 
         <div class="download-section">
-            <h2 class="beta-heading">BETA</h2>
+            <h2 class="release-heading">RELEASE</h2>
+            <p class="release-subtitle">Stable version • Fully functional</p>
             <div class="os-badges">
                 <div class="os-badge">
                     <i class="fab fa-apple"></i>
@@ -672,4 +710,5 @@
         <p class="author"><a href="https://github.com/DevCicadaY">DevCicadaY</a></p>
     </footer>
 </body>
-</html> 
+
+</html>
