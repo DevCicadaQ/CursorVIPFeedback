@@ -32,6 +32,13 @@ The tool provides **temporary educational access** to platform features for thos
 - ⚠️ **Do not create** multiple accounts
 - 📚 **For learning** and educational projects only
 
+# 🚨 IMPORTANT WARNING
+
+The application works with Chrome browser and may require force closing it to perform certain tasks. Please save all important data before using.
+
+- ⚠️ Chrome browser may be closed without warning during operation
+- ❗ All unsaved data will be lost when the browser closes
+
 ## 📦 Releases
 
 The latest releases and updates can be found on our [GitHub Releases page](https://github.com/DevCicadaY/CursorVIPFeedback/releases/).
