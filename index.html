@@ -605,6 +605,208 @@
                 align-items: center;
             }
         }
+
+        /* Стили для секции уведомления */
+        .notification-section {
+            border: none;
+            padding: 0;
+        }
+
+        .notification-container {
+            background: linear-gradient(145deg, var(--card-bg), #161616);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .notification-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .notification-icon {
+            font-size: 2rem;
+            margin-right: 1rem;
+        }
+
+        .notification-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary-color);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .notification-content p {
+            font-size: 1.1rem;
+            color: var(--text-color);
+            margin-bottom: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .notification-list {
+            list-style-type: none;
+            padding: 0;
+            margin-bottom: 1.5rem;
+        }
+
+        .notification-list li {
+            display: flex;
+            align-items: center;
+            padding: 0.8rem 1rem;
+            margin-bottom: 0.8rem;
+            background: rgba(0, 255, 157, 0.05);
+            border-radius: 8px;
+        }
+
+        .notification-list li:hover {
+            background: rgba(0, 255, 157, 0.08);
+        }
+
+        .notification-list li i {
+            color: var(--primary-color);
+            margin-right: 1rem;
+            font-size: 1.2rem;
+        }
+
+        .notification-list li span {
+            font-size: 1.05rem;
+        }
+
+        .notification-list li a {
+            color: var(--primary-color);
+            text-decoration: none;
+            border-bottom: 1px dashed var(--primary-color);
+            transition: all 0.2s;
+        }
+
+        .notification-list li a:hover {
+            border-bottom: 1px solid var(--primary-color);
+            opacity: 0.8;
+        }
+
+        .notification-highlight {
+            padding: 1.5rem;
+            background: rgba(0, 255, 157, 0.07);
+            border-left: 3px solid var(--primary-color);
+            border-radius: 0 8px 8px 0;
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-top: 1.5rem;
+        }
+
+        .notification-highlight strong {
+            color: var(--primary-color);
+        }
+
+        .rules-container {
+            background: rgba(255, 165, 0, 0.05);
+            border: 1px solid #ffa500;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-top: 2rem;
+        }
+
+        .rules-container h3 {
+            color: #ffa500;
+            margin-bottom: 1.5rem;
+            font-size: 1.3rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .rules-list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .rules-item {
+            display: flex;
+            margin-bottom: 1rem;
+            padding: 0.8rem;
+            background: rgba(255, 165, 0, 0.03);
+            border-radius: 8px;
+            transition: all 0.2s ease;
+        }
+
+        .rules-item:hover {
+            background: rgba(255, 165, 0, 0.08);
+        }
+
+        .rules-icon {
+            font-size: 1.2rem;
+            margin-right: 1rem;
+            flex-shrink: 0;
+        }
+
+        .rules-text {
+            line-height: 1.5;
+        }
+
+        .rules-text strong {
+            color: #ffa500;
+        }
+
+        .rules-text a {
+            color: #ffa500;
+            text-decoration: none;
+            border-bottom: 1px dashed #ffa500;
+            transition: all 0.2s;
+        }
+
+        .rules-text a:hover {
+            opacity: 0.8;
+            border-bottom: 1px solid #ffa500;
+        }
+
+        @media (max-width: 768px) {
+
+            .notification-container,
+            .rules-container {
+                padding: 1.5rem;
+            }
+
+            .notification-title {
+                font-size: 1.3rem;
+            }
+
+            .notification-list li {
+                padding: 0.6rem 0.8rem;
+            }
+
+            .notification-highlight {
+                padding: 1.2rem;
+                font-size: 1rem;
+            }
+
+            .rules-container h3 {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .notification-header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .notification-icon {
+                margin-right: 0;
+                margin-bottom: 0.8rem;
+            }
+
+            .notification-list li {
+                align-items: flex-start;
+            }
+
+            .notification-list li i {
+                margin-top: 0.3rem;
+            }
+        }
     </style>
 </head>
 
@@ -645,9 +847,108 @@
             </div>
         </div>
 
+        <div class="section notification-section">
+            <div class="notification-container">
+                <div class="notification-header">
+                    <div class="notification-icon">⚠️</div>
+                    <div class="notification-title">Important Notice</div>
+                </div>
+
+                <div class="notification-content">
+                    <p>🎓 Cursor VIP is an educational project created to support beginner IT specialists:</p>
+
+                    <ul class="notification-list">
+                        <li>
+                            <i class="fas fa-user-graduate"></i>
+                            <span>Students taking their first steps in programming</span>
+                        </li>
+                        <li>
+                            <i class="fas fa-code"></i>
+                            <span>Beginning developers with limited budget</span>
+                        </li>
+                        <li>
+                            <i class="fas fa-laptop-code"></i>
+                            <span>Enthusiasts learning the basics with <a href="https://www.cursor.com/">Cursor
+                                    IDE</a></span>
+                        </li>
+                    </ul>
+
+                    <div class="notification-highlight">
+                        The tool provides <strong>temporary educational access</strong> to platform features for those
+                        who are just starting their programming journey and cannot yet afford a paid subscription.
+                    </div>
+                </div>
+            </div>
+
+            <div class="rules-container">
+                <h3><i class="fas fa-exclamation-circle"></i> Usage Rules:</h3>
+
+                <ul class="rules-list">
+                    <li class="rules-item">
+                        <div class="rules-icon">💰</div>
+                        <div class="rules-text">
+                            <strong>Support Cursor</strong> by purchasing an official subscription when possible -
+                            <a href="https://www.cursor.com/pricing">more about pricing</a>
+                        </div>
+                    </li>
+                    <li class="rules-item">
+                        <div class="rules-icon">⏳</div>
+                        <div class="rules-text">
+                            <strong>Temporary solution</strong> - use only during the basic learning period
+                        </div>
+                    </li>
+                    <li class="rules-item">
+                        <div class="rules-icon">🤝</div>
+                        <div class="rules-text">
+                            <strong>Respect the work</strong> of the Cursor development team
+                        </div>
+                    </li>
+                    <li class="rules-item">
+                        <div class="rules-icon">🚫</div>
+                        <div class="rules-text">
+                            <strong>Do not use</strong> for commercial purposes
+                        </div>
+                    </li>
+                    <li class="rules-item">
+                        <div class="rules-icon">⚠️</div>
+                        <div class="rules-text">
+                            <strong>Do not create</strong> multiple accounts
+                        </div>
+                    </li>
+                    <li class="rules-item">
+                        <div class="rules-icon">📚</div>
+                        <div class="rules-text">
+                            <strong>For learning</strong> and educational projects only
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
         <div class="download-section">
             <h2 class="release-heading">RELEASE</h2>
             <p class="release-subtitle">Stable version • Fully functional</p>
+            
+            <div class="warning-container" 
+                style="background: rgba(255, 0, 0, 0.1); border: 1px solid #ff4d4d; border-radius: 8px; padding: 1.5rem; margin-bottom: 2rem; text-align: left;">
+                <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+                    <i class="fas fa-exclamation-triangle" 
+                        style="color: #ff4d4d; font-size: 1.5rem; margin-right: 1rem;"></i>
+                    <h3 style="color: #ff4d4d; font-size: 1.2rem; margin: 0;">IMPORTANT WARNING</h3>
+                </div>
+                <p style="margin-bottom: 1rem; font-size: 1rem; line-height: 1.5;">The application works with Chrome browser and may require force closing it to perform certain tasks. Please save all important data before using.</p>
+                <ul style="list-style-type: none; padding-left: 0.5rem; margin-bottom: 0;">
+                    <li style="margin-bottom: 0.5rem; display: flex; align-items: baseline;">
+                        <span style="color: #ff4d4d; margin-right: 0.5rem;">⚠️</span>
+                        <span>Chrome browser may be closed without warning during operation</span>
+                    </li>
+                    <li style="display: flex; align-items: baseline;">
+                        <span style="color: #ff4d4d; margin-right: 0.5rem;">❗</span>
+                        <span>When the browser closes, all unsaved data will be lost</span>
+                    </li>
+                </ul>
+            </div>
+
             <div class="os-badges">
                 <div class="os-badge">
                     <i class="fab fa-apple"></i>
