@@ -15,6 +15,23 @@
 
 ---
 
+## ⚠️ Important Notice
+
+🎓 Cursor VIP is an educational project created to support beginner IT specialists:
+- Students taking their first steps in programming
+- Beginning developers with limited budget
+- Enthusiasts learning the basics with [Cursor IDE](https://www.cursor.com/)
+
+The tool provides **temporary educational access** to platform features for those who are just starting their programming journey and cannot yet afford a paid subscription.
+
+### ❗ Usage Rules:
+- 💰 **Support Cursor** by purchasing an official subscription when possible - [more about pricing](https://www.cursor.com/pricing)
+- ⏳ **Temporary solution** - use only during the basic learning period
+- 🤝 **Respect the work** of the Cursor development team
+- 🚫 **Do not use** for commercial purposes
+- ⚠️ **Do not create** multiple accounts
+- 📚 **For learning** and educational projects only
+
 ## 📦 Releases
 
 The latest releases and updates can be found on our [GitHub Releases page](https://github.com/DevCicadaY/CursorVIPFeedback/releases/).
