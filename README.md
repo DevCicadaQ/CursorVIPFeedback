@@ -71,6 +71,10 @@ Each release includes:
 
 Stay tuned for updates! 🚀
 
+## ❓ FAQ
+
+Detailed answers to frequently asked questions are available in the [FAQ.md](FAQ.md) section. There you will find information about the program's operation, possible issues and their solutions.
+
 ---
 
 ## 🌟 Let's Support the Project Together!
