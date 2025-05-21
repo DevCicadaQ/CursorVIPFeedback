@@ -41,7 +41,7 @@ The application works with Chrome browser and may require force closing it to pe
 
 ## 📦 Releases
 
-The latest releases and updates can be found on our [GitHub Releases page](https://github.com/DevCicadaY/CursorVIPFeedback/releases/).
+Latest releases and updates can be found on the [GitHub Releases page](https://github.com/DevCicadaY/CursorVIPFeedback/releases/).
 
 Each release includes:
 • Detailed changelog
