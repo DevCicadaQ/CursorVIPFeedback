@@ -6,6 +6,24 @@
 
 </div>
 
+> [!IMPORTANT]
+> 🚨 **Project at Risk!**
+>
+> Without community activity in the coming days:
+> - ❌ New versions will not be released  
+> - 🔒 Access to the application will be completely restricted and blocked
+>
+> 💥 **Everything depends on your support:**
+> - ⭐ Star the project on [GitHub](#)  
+> - 👀 Watch the full video on [@DevCicadaY YouTube channel](https://www.youtube.com/@DevCicadaY)  
+> - 👍 Leave a like and comment  
+> - ✅ Follow and stay updated on [X (Twitter) @devcicaday](https://x.com/devcicaday)
+>
+> 🚀 With sufficient support, new features and improvements that are currently in development will be implemented!
+>
+> 💡 **Support = Project's Continued Life**  
+Thank you for participating! 💛
+
 ---
 
 > **About Project**: Cursor VIP is a tool for automating the registration and activation process of Cursor IDE. The project aims to provide automatic account creation and activation, helping developers get quick access to Cursor features. This is my first serious project, and I'm learning as I go!
