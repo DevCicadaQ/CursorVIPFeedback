@@ -1,4 +1,4 @@
-# (FAQ)
+# FAQ
 
 ## How to get the code?
 
