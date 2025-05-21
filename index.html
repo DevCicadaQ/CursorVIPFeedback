@@ -532,12 +532,28 @@
             display: inline-flex;
             align-items: center;
             gap: 0.5rem;
+            margin-top: 1rem;
+            color: var(--text-color);
+            text-decoration: none;
+            transition: all 0.2s ease;
+            font-size: 0.8em;
+        }
+
+        .changelog-link:hover {
+            color: var(--primary-color);
+            text-shadow: 0 0 15px rgba(0, 255, 157, 0.2);
+        }
+
+        .fag-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
             color: var(--text-color);
             text-decoration: none;
             transition: all 0.2s ease;
         }
 
-        .changelog-link:hover {
+        .fag-link:hover {
             color: var(--primary-color);
             text-shadow: 0 0 15px rgba(0, 255, 157, 0.2);
         }
@@ -983,6 +999,10 @@
             <p style="margin-top: 1rem;">
                 <a href="https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/CHANGELOG.md" class="changelog-link">
                     <i class="fas fa-history"></i> View Changelog
+                </a>
+                <br>
+                <a href="https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/FAQ.md" class="fag-link">
+                    <i class="fas fa-question-circle"></i> FAQ
                 </a>
             </p>
             <p class="license">By using this tool, you acknowledge that you understand all risks associated with its use, including potential bugs and instability. The tool is provided "as is" without any warranties.</p>
