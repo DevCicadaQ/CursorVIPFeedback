@@ -49,6 +49,8 @@ Each release includes:
 • Download links
 • Release notes
 
+📝 For detailed version history and all changes, please check out [CHANGELOG.md](CHANGELOG.md).
+
 Stay tuned for updates! 🚀
 
 ---
