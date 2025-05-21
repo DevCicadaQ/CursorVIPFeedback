@@ -15,7 +15,7 @@
 >
 > 💥 **Everything depends on your support:**
 > - ⭐ Star the project on [GitHub](#)  
-> - 👀 Watch the full video on [@DevCicadaY YouTube channel](https://www.youtube.com/@DevCicadaY)  
+> - 👀 Watch videos till the end on [@DevCicadaY YouTube channel](https://www.youtube.com/@DevCicadaY)
 > - 👍 Leave a like and comment  
 > - ✅ Follow and stay updated on [X (Twitter) @devcicaday](https://x.com/devcicaday)
 >
