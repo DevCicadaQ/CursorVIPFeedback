@@ -67,13 +67,13 @@ Each release includes:
 • Download links
 • Release notes
 
-📝 For detailed version history and all changes, please check out [CHANGELOG.md](CHANGELOG.md).
+📝 For detailed version history and all changes, please check out [CHANGELOG](CHANGELOG.md).
 
 Stay tuned for updates! 🚀
 
 ## ❓ FAQ
 
-Detailed answers to frequently asked questions are available in the [FAQ.md](FAQ.md) section. There you will find information about the program's operation, possible issues and their solutions.
+Detailed answers to frequently asked questions are available in the [FAQ](FAQ.md) section. There you will find information about the program's operation, possible issues and their solutions.
 
 ---
 
