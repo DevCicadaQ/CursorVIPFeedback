@@ -22,7 +22,7 @@
 > 🚀 With sufficient support, new features and improvements that are currently in development will be implemented!
 >
 > 💡 **Support = Project's Continued Life**  
-Thank you for participating! 💛
+Thank you for participating! 🤝
 
 ---
 
