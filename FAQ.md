@@ -8,7 +8,7 @@ To get the serial number, watch the video carefully until the very end. A pop-up
 
 Cursor VIP is compatible with the current version of Cursor IDE.
 
-## My Cursor VIP is not working. What should I do?
+## Cursor VIP is not working. What should I do?
 
 For Cursor VIP to work correctly, you need to:
 
