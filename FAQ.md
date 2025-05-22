@@ -17,3 +17,9 @@ For Cursor VIP to work correctly, you need to:
 3. Make sure both applications run without errors
 
 Without meeting these requirements, Cursor VIP may work incorrectly or fail to launch at all.
+
+## Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+
+Cursor VIP automatically resolves this issue without requiring any additional actions on your part.
+
+**Important:** Windows users must run the program with administrator privileges, otherwise the issue will not be resolved.
