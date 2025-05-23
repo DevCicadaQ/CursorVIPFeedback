@@ -16,14 +16,18 @@ Cursor VIP is compatible with the current version of Cursor IDE.
 For Cursor VIP to work correctly, you need to:
 
 1. Install Cursor IDE in the default installation directory
+
 **Windows:**
 `C:\Users\Your_Username\AppData\Local\Programs\Cursor\Cursor.exe`
+
 **macOS:**
 `/Applications/Cursor.app/Contents/MacOS/Cursor`
 
 2. Install Google Chrome browser in the default installation directory
+
 **Windows:**
 `C:\Program Files\Google\Chrome\Application\chrome.exe`
+
 **macOS:**
 `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`
 
