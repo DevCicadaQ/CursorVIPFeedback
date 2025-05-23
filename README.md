@@ -34,9 +34,9 @@ Thank you for participating! 🤝
 
 <div align="center">
 
-### Latest Release Demo
-
 [![Watch the Demo](сursorvip_demo.png)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
+
+### [![Latest Release Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
 
 </div>
 
