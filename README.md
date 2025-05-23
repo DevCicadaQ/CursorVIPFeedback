@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 Cursor VIP
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaY/CursorVIPFeedback)
@@ -29,6 +27,16 @@
 >
 > 💡 **Support = Project's Continued Life**  
 Thank you for participating! 🤝
+
+## 📺 Product Overview
+
+<div align="center">
+
+### Latest Release Demo
+
+[![Watch the Demo](https://img.youtube.com/vi/JLkITcJ8qM0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
+
+</div>
 
 ---
 
