@@ -6,9 +6,11 @@
 
 [![GitHub Release Date](https://img.shields.io/github/release-date/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/DevCicadaY/CursorVIPFeedback?display_name=tag&include_prereleases)](https://github.com/DevCicadaY/CursorVIPFeedback/releases)
+[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/DevCicadaY/CursorVIPFeedback/total)](https://github.com/DevCicadaY/CursorVIPFeedback/releases/latest)
 
 [![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
+
 
 </div>
 
