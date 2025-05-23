@@ -4,6 +4,12 @@
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaY/CursorVIPFeedback)
 
+[![GitHub Release Date](https://img.shields.io/github/release-date/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DevCicadaY/CursorVIPFeedback?display_name=tag&include_prereleases)](https://github.com/DevCicadaY/CursorVIPFeedback/releases)
+
+[![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
+
 </div>
 
 > [!IMPORTANT]
