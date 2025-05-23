@@ -36,7 +36,7 @@ Thank you for participating! 🤝
 
 ### Latest Release Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/JLkITcJ8qM0/maxresdefault.jpg)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
+[![Watch the Demo](сursorvip_demo.png)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
 
 </div>
 
