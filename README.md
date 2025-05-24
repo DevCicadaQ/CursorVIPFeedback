@@ -14,6 +14,8 @@
 
 </div>
 
+I've noticed a high number of downloads but limited community activity. Due to this, I've decided to modify the code - you'll need to rewatch the YouTube video to find the updated version. If community support doesn't improve after this change, I may have to restrict access to the project.
+
 > [!IMPORTANT]
 > 🚨 **Project at Risk!**
 >
