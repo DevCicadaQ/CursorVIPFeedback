@@ -1,18 +1,20 @@
-# Limitations and Support System
+# Limitations & Support System
 
-👋 Dear users! I want to share important information about new project protection measures. Analyzing the statistics, I noticed a significant imbalance between the number of downloads and community activity. To ensure sustainable project development, I have implemented a restriction system.
+👋 Dear users,
+I’d like to share some important updates about new protection measures in the project. After analyzing usage statistics, I noticed a significant imbalance between downloads and actual community engagement.
+To ensure sustainable development, a limitation system has been introduced.
 
 ## Current Usage Rules
-- 🔒 First launch is available immediately after download
-- ⏳ Subsequent launches are possible with a 24-hour interval
+- 🔓 First launch is available immediately after download
+- ⏳ Next launches are available with a 24-hour interval
 
-## Reasons for Limitations
-- 🛡️ Protection against mass non-targeted usage
+## Why These Limitations Exist
+- 🛡️ To protect against mass, untargeted usage
 
-## Reward System
-Support the project and get extended features:
+## 🎁 Reward System
+Support the project and unlock extra features:
 
-### 📺 YouTube Channel
+### 📺 YouTube
 - Subscribe to the channel: [DevCicada](https://www.youtube.com/@DevCicadaY)
 - Watch the video until the end
 
