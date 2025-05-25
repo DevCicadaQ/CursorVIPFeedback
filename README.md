@@ -14,26 +14,6 @@
 
 </div>
 
-I've noticed a high number of downloads but limited community activity. Due to this, I've decided to modify the code - you'll need to rewatch the YouTube video to find the updated version. If community support doesn't improve after this change, I may have to restrict access to the project.
-
-> [!IMPORTANT]
-> 🚨 **Project at Risk!**
->
-> Without community activity in the coming days:
-> - ❌ New versions will not be released  
-> - 🔒 Access to the application will be completely restricted and blocked
->
-> 💥 **Everything depends on your support:**
-> - ⭐ Star the project on [GitHub](#)  
-> - 👀 Watch videos till the end on [YouTube](https://www.youtube.com/@DevCicadaY)
-> - 👍 Leave a like and comment  
-> - ✅ Follow and stay updated on [X (Twitter)](https://x.com/devcicaday)
->
-> 🚀 With sufficient support, new features and improvements that are currently in development will be implemented!
->
-> 💡 **Support = Project's Continued Life**  
-Thank you for participating! 🤝
-
 ## 📺 Product Overview
 
 <div align="center">
