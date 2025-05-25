@@ -1,5 +1,27 @@
 # Changelog
 
+## 2.1.0
+
+- 📝 **Terms of Use Updated**  
+  Please review the current version: [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
+
+- ✅ **Added Linux system support**  
+  Application tested on Ubuntu 24.04.
+
+- 🔨 **Critical bugs and vulnerabilities fixed**  
+  Security enhanced and potential threats eliminated.
+
+- ⚙️ **Improved stability and performance**  
+  Key modules optimized, response time and reliability enhanced.
+
+- 🛡️ **Enhanced unauthorized access protection**  
+  Additional security mechanisms implemented.
+
+---
+
+> ⚠️ **Attention:**  
+> This release is in testing phase. There may be issues or unstable operation on some systems.
+
 ## 2.0.14
 
 🔧 One of the functions is temporarily disabled (does not affect application functionality)
