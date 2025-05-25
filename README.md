@@ -48,6 +48,10 @@ The tool provides **temporary educational access** to platform features for thos
 - ⚠️ **Do not create** multiple accounts
 - 📚 **For learning** and educational projects only
 
+### 🌟 **Access Information**
+
+To get full access to the project, please refer to the [access document](LIMIT.md), which details all the necessary steps for activation, including obtaining the activation code, available bonuses for active users, and ways to support the project.
+
 # 🚨 IMPORTANT WARNING
 
 The application works with Chrome browser and may require force closing it to perform certain tasks. Please save all important data before using.
