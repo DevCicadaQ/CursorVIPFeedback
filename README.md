@@ -48,7 +48,7 @@ The tool provides **temporary educational access** to platform features for thos
 - ⚠️ **Do not create** multiple accounts
 - 📚 **For learning** and educational projects only
 
-### 🌟 **Access Information**
+### 🌟 **My Usage Rules and Support System**
 
 To get full access to the project, please refer to the [access document](LIMIT.md), which details all the necessary steps for activation, including obtaining the activation code, available bonuses for active users, and ways to support the project.
 
