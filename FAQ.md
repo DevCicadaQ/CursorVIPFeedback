@@ -29,6 +29,9 @@ For Cursor VIP to work correctly, you need to:
 - **macOS:**
 `/Applications/Cursor.app/Contents/MacOS/Cursor`
 
+- **Linux:**
+`/opt/cursor/cursor`
+
 2. Install Google Chrome browser in the default installation directory
 
 - **Windows:**
@@ -36,6 +39,9 @@ For Cursor VIP to work correctly, you need to:
 
 - **macOS:**
 `/Applications/Google Chrome.app/Contents/MacOS/Google Chrome`
+
+- **Linux:**
+`/usr/bin/chromiume`
 
 3. Make sure both applications run without errors
 
