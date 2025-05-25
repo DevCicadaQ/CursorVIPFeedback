@@ -14,8 +14,6 @@
 
 </div>
 
-## 📺 Product Overview
-
 <div align="center">
 
 [![Watch the Demo](cursorvip_demo.png)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
