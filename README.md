@@ -11,7 +11,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
 
-### [![Latest Release Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
+[![Latest Release Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
 
 </div>
 
