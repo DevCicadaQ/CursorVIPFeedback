@@ -1,6 +1,6 @@
 <div align="center">
 
-![Cursor VIP](cursorvip_demo.png)
+[![Cursor VIP](cursorvip_demo.png)](https://github.com/DevCicadaY/CursorVIPFeedback)
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaY/CursorVIPFeedback)
 
