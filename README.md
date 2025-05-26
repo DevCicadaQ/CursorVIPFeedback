@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Cursor VIP
+![Cursor VIP](cursorvip_demo.png)
 
 [![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaY/CursorVIPFeedback)
 
@@ -11,18 +11,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
 
-
-</div>
-
-<div align="center">
-
-[![Watch the Demo](cursorvip_demo.png)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
-
 ### [![Latest Release Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://www.youtube.com/watch?v=JLkITcJ8qM0)
 
 </div>
-
----
 
 > **About Project**: Cursor VIP is a tool for automating the registration and activation process of Cursor IDE. The project aims to provide automatic account creation and activation, helping developers get quick access to Cursor features. This is my first serious project, and I'm learning as I go!
 
