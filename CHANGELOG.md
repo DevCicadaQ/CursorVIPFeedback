@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.1
+
+🔧 Fixed critical error
+
 ## 2.1.0
 
 - 📝 **Terms of Use Updated**  
