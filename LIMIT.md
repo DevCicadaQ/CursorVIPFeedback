@@ -53,8 +53,4 @@ Hello! This project has specific usage conditions.
 - 📧 Email: CursorVIPFeedback@proton.me
 - 💬 Online Chat: [Tawk.to](https://tawk.to/cursorvipfeedback)
 
-### Support Hours:
-- ⏰ Response within 1-2 hours
-- 🌐 Support available 24/7
-
 P.S. Thank you for supporting the project! 🙌
