@@ -47,6 +47,10 @@ For Cursor VIP to work correctly, you need to:
 
 Without meeting these requirements, Cursor VIP may work incorrectly or fail to launch at all.
 
+## Your free trial has expired.
+
+Currently there is no direct solution to this situation. It is recommended to use claude-3.5-haiku as this provides a reliable workaround.
+
 ## Too many free trial accounts used on this machine.
 
 Cursor VIP automatically resolves this issue without requiring any additional actions on your part.
