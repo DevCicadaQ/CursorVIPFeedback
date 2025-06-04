@@ -2,44 +2,46 @@
 
 ## 2.1.3
 
-# 🎥 New YouTube Channel with Code Content
+# 🎬 Welcome to My New YouTube Channel!
 
 Hey friends!  
-Unfortunately, I wasn’t able to recover my previous YouTube channel 😔  
-So I’ve launched a **new one**, where I’ll be sharing videos with **coding content** and exciting projects.
+Sadly, I couldn't recover my old YouTube channel 😞  
+But no worries — I've created a **brand new one** where I’ll be sharing cool **coding videos**, ideas, and side projects!
 
-## 🙏 Your Support Is Critically Important
+## ❤️ I Really Need Your Support
 
-Please:
-- **Watch the videos fully** without skipping
-- **Like** the videos
-- **Subscribe** to the channel
+If you enjoy the content or just want to help — here’s how you can make a **huge difference**:
 
-> This is **absolutely crucial** for the growth and future of the project!
+- Watch the videos **all the way through** (no skipping, please!)
+- Leave a **like** 👍
+- Hit **subscribe** 🔔 so you don’t miss anything
 
----
-
-## ⚠️ Updated Rules for Users **Without a Unique Code**
-
-To ensure fairness and transparency, new limitations have been introduced:
-
-- ⏳ **Wait time before launch**: between `1` and `7` minutes
-- ⏰ **Maximum usage frequency**: `once every 24 hours`
+> Your support helps the channel grow and keeps the project alive 🙏
 
 ---
 
-## 🏆 Benefits for Users **With a Unique Code**
+## ⚠️ New Rules for Users *Without a Unique Code*
 
-If you have a unique code — **nothing changes for you**.  
-You’ll continue to enjoy full functionality **without restrictions**.
+To keep things fair and sustainable, I’ve added a few limits:
 
-Read the full conditions here:  
+- ⏳ You might need to **wait 1–7 minutes** before using the tool  
+- ⏰ You can run it only **once every 24 hours**
+
+---
+
+## 🏆 Have a Unique Code? You’re All Set!
+
+If you already have a code — **nothing changes for you**.  
+You get full access, no waiting, no limits.
+
+Curious how to get one?  
+Check out the details here:  
 🔗 [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ---
 
-Thanks so much for your support!  
-Let’s grow this project together 💻🚀
+Thanks for being here — it truly means a lot 💙  
+Let’s build and learn together!
 
 ## 2.1.1
 
