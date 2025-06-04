@@ -35,8 +35,7 @@ If you already have a code — **nothing changes for you**.
 You get full access, no waiting, no limits.
 
 Curious how to get one?  
-Check out the details here:  
-🔗 [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
+Check out the details here: [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ---
 
