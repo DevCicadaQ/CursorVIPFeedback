@@ -6,8 +6,8 @@ Hello! This project has specific usage conditions.
 ## ⚡ Access System
 
 ### Basic Rules:
-1. 🆕 First Launch: Full unrestricted access
-2. ⏰ Subsequent Launches: 24-hour interval between uses
+- ⏳ You might need to **wait 1–7 minutes** before using the tool  
+- ⏰ You can run it only **once every 24 hours**
 
 ### Key Features:
 - Device independence
