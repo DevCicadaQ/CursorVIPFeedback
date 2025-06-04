@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1.4
+
+Hello everyone! Recently, an interesting Issue appeared in the repository [with a provocative title "Why not remove the Trojan? 為什麼不移除木馬呢?"](https://github.com/DevCicadaY/CursorVIPFeedback/issues/16). I want to openly discuss this situation and hear the community's opinion.
+
+If the majority of users express reasonable suspicions about the presence of malware, I am ready to completely close the project and stop its distribution. My main goal is to ensure user safety and maintain their trust.
+
+I call on everyone to engage in a constructive dialogue and honest discussion.
+
 ## 2.1.3
 
 # 🎬 Welcome to My New YouTube Channel!
