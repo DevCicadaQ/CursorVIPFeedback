@@ -1,5 +1,50 @@
 # Changelog
 
+## 2.1.3
+
+# 🎥 New YouTube Channel with Code Content
+
+Hey friends!  
+Unfortunately, I wasn’t able to recover my previous YouTube channel 😔  
+So I’ve launched a **new one**, where I’ll be sharing videos with **coding content** and exciting projects.
+
+## 🙏 Your Support Is Critically Important
+
+Please:
+- **Watch the videos fully** without skipping
+- **Like** the videos
+- **Subscribe** to the channel
+
+> This is **absolutely crucial** for the growth and future of the project!
+
+---
+
+## ⚠️ Updated Rules for Users **Without a Unique Code**
+
+To ensure fairness and transparency, new limitations have been introduced:
+
+- ⏳ **Wait time before launch**: between `1` and `7` minutes
+- ⏰ **Maximum usage frequency**: `once every 24 hours`
+
+---
+
+## 🏆 Benefits for Users **With a Unique Code**
+
+If you have a unique code — **nothing changes for you**.  
+You’ll continue to enjoy full functionality **without restrictions**.
+
+Read the full conditions here:  
+🔗 [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
+
+---
+
+Thanks so much for your support!  
+Let’s grow this project together 💻🚀
+
+## 2.1.1
+
+🔧 Fixed critical error
+
 ## 2.1.1
 
 🔧 Fixed critical error
