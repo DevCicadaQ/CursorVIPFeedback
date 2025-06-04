@@ -42,9 +42,9 @@ Check out the details here: [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFe
 Thanks for being here — it truly means a lot 💙  
 Let’s build and learn together!
 
-## 2.1.1
+## 2.1.2
 
-🔧 Fixed critical error
+The project is temporarily paused due to the removal of my YouTube channel. If I manage to resolve this issue, I will reopen access. Otherwise, the project will be permanently closed.
 
 ## 2.1.1
 
