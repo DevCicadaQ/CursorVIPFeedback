@@ -20,7 +20,7 @@ Hello! This project has specific usage conditions.
 ## 🎁 How to Get Full Access
 
 ### Support Steps:
-1. 📺 Subscribe to YouTube channel [DevCicada](https://www.youtube.com/@DevCicadaY)
+1. 📺 Subscribe to YouTube channel [DevCicadaQ](https://www.youtube.com/@DevCicadaQ)
 2. 🐦 Follow on Twitter/X [DevCicada](https://x.com/devcicaday)
 3. ⭐ Star on GitHub [CursorVIPFeedback](https://github.com/DevCicadaY/CursorVIPFeedback)
 
