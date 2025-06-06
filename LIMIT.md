@@ -5,7 +5,7 @@ Hello! This project has specific usage conditions.
 
 ## 🔄 Improved Activation Code Retrieval Rules
 
-📝 To get **access** to my tool, carefully **watch my YouTube video**.  
+To get **access** to my tool, carefully **watch my YouTube video**.  
 The activation code is formed from **special parts** that can be collected **only through careful viewing**.
 
 This mechanism is designed to **support my channel** and attract **truly interested users**.
