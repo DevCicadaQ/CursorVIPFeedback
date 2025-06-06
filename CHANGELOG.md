@@ -22,8 +22,7 @@ My tool is designed for those who are ready to **learn, experiment** and **imple
 
 📧 Those who have **previously supported me** will receive an activation code **to their email automatically**.
 
-🔑 Example of a correct code:  
-`DAY14X:2789:DAY14X:DAY14X`
+🔑 Example of a correct code: `DAY14X:2789:DAY14X:DAY14X`
 
 ## 2.1.3
 
