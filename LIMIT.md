@@ -3,6 +3,26 @@
 ## 👋 Introduction
 Hello! This project has specific usage conditions.
 
+## 🔄 Improved Activation Code Retrieval Rules
+
+📝 To get **access** to my tool, carefully **watch my YouTube video**.  
+The activation code is formed from **special parts** that can be collected **only through careful viewing**.
+
+This mechanism is designed to **support my channel** and attract **truly interested users**.
+
+### Why is this important?
+
+✅ The activation code is not just a random set of characters, but a **test of your motivation and attentiveness**.  
+✅ Only those who truly want to use the tool will be able to **collect and enter the correct code**.  
+❌ For everyone else — the path is closed.
+
+If you are **not ready to make an effort** — it's better to **not waste your time**.  
+My tool is designed for those who are ready to **learn, experiment** and **implement new opportunities**.
+
+### Additionally
+
+🔑 Example of a correct code: `DAY14X:2789:DAY14X:DAY14X`
+
 ## ⚡ Access System
 
 ### Basic Rules:
