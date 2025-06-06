@@ -10,6 +10,8 @@ You can verify the application's safety yourself by uploading its file to VirusT
 
 To get the serial number, watch the video carefully until the very end. A pop-up banner with the serial number will appear in the upper right corner of the screen. The hint will only be displayed for a few seconds, so please be extra attentive not to miss it.
 
+Example of a correct code: DAY14X:2789:DAY14X:DAY14X
+
 ## Why do I need a code?
 This is intentionally done to restrict access to the application. Only genuinely interested users who are willing to carefully watch the video and find the code will be able to use the program. This approach helps filter out casual users.
 
