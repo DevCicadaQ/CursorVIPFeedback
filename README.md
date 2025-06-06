@@ -11,6 +11,14 @@
 [![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
 
+## Service Status
+
+**Service 1 Status**  
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m800685974-1895e0fd7ea5b20f8a9ef083)](https://stats.uptimerobot.com/JVZEy42Snd)
+
+**Service 2 Status**  
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m800685954-149e95e4182b2189f8453cb0)](https://stats.uptimerobot.com/JVZEy42Snd)
+
 </div>
 
 > **About Project**: Cursor VIP is a tool for automating the registration and activation process of Cursor IDE. The project aims to provide automatic account creation and activation, helping developers get quick access to Cursor features. This is my first serious project, and I'm learning as I go!
