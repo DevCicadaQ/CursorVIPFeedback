@@ -2,11 +2,28 @@
 
 ## 2.1.4
 
-Hello everyone! Recently, an interesting Issue appeared in the repository [with a provocative title "Why not remove the Trojan? 為什麼不移除木馬呢?"](https://github.com/DevCicadaY/CursorVIPFeedback/issues/16). I want to openly discuss this situation and hear the community's opinion.
+## 🔄 Improved Activation Code Retrieval Rules
 
-If the majority of users express reasonable suspicions about the presence of malware, I am ready to completely close the project and stop its distribution. My main goal is to ensure user safety and maintain their trust.
+📝 To get **full access** to my tool, carefully **watch my YouTube video**.  
+The activation code is formed from **special parts** that can be collected **only through careful viewing**.
 
-I call on everyone to engage in a constructive dialogue and honest discussion.
+This mechanism is designed to **support my channel** and attract **truly interested users**.
+
+### Why is this important?
+
+✅ The activation code is not just a random set of characters, but a **test of your motivation and attentiveness**.  
+✅ Only those who truly want to use the tool will be able to **collect and enter the correct code**.  
+❌ For everyone else — the path is closed.
+
+If you are **not ready to make an effort** — it's better to **not waste your time**.  
+My tool is designed for those who are ready to **learn, experiment** and **implement new opportunities**.
+
+### Additionally
+
+📧 Those who have **previously supported me** will receive an activation code **to their email automatically**.
+
+🔑 Example of a correct code:  
+`DAY14X:2789:DAY14X:DAY14X`
 
 ## 2.1.3
 
