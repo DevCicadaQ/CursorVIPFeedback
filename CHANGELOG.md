@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.5
+
+🔧 Fixed issue
+
 ## 2.1.4
 
 ## 🔄 Improved Activation Code Retrieval Rules
