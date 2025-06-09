@@ -1,15 +1,15 @@
 <div align="center">
 
-[![Cursor VIP](cursorvip_demo.png)](https://github.com/DevCicadaY/CursorVIPFeedback)
+[![Cursor VIP](cursorvip_demo.png)](https://github.com/DevCicadaQ/CursorVIPFeedback)
 
-[![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaY/CursorVIPFeedback)
+[![Status](https://img.shields.io/badge/Status-Active_Development-green)](https://github.com/DevCicadaQ/CursorVIPFeedback)
 
-[![GitHub Release Date](https://img.shields.io/github/release-date/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/releases/latest)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DevCicadaY/CursorVIPFeedback?display_name=tag&include_prereleases)](https://github.com/DevCicadaY/CursorVIPFeedback/releases/latest)
-[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/DevCicadaY/CursorVIPFeedback/total)](https://github.com/DevCicadaY/CursorVIPFeedback/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/DevCicadaQ/CursorVIPFeedback)](https://github.com/DevCicadaQ/CursorVIPFeedback/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/DevCicadaQ/CursorVIPFeedback?display_name=tag&include_prereleases)](https://github.com/DevCicadaQ/CursorVIPFeedback/releases/latest)
+[![Downloads](https://img.shields.io/endpoint?url=https://api.pinstudios.net/api/badges/downloads/DevCicadaQ/CursorVIPFeedback/total)](https://github.com/DevCicadaQ/CursorVIPFeedback/releases/latest)
 
-[![GitHub issues](https://img.shields.io/github/issues/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaY/CursorVIPFeedback)](https://github.com/DevCicadaY/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub issues](https://img.shields.io/github/issues/DevCicadaQ/CursorVIPFeedback)](https://github.com/DevCicadaQ/CursorVIPFeedback/issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/DevCicadaQ/CursorVIPFeedback)](https://github.com/DevCicadaQ/CursorVIPFeedback/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Service Status
 
@@ -58,7 +58,7 @@ The application works with Chrome browser and may require force closing it to pe
 
 ## 📦 Releases
 
-Latest releases and updates can be found on the [GitHub Releases page](https://github.com/DevCicadaY/CursorVIPFeedback/releases/).
+Latest releases and updates can be found on the [GitHub Releases page](https://github.com/DevCicadaQ/CursorVIPFeedback/releases/).
 
 Each release includes:
 • Detailed changelog
@@ -87,17 +87,17 @@ I'm a beginner in development and very happy you stopped by! Cursor VIP is my fi
 • Tell your friends - maybe someone will find it useful! 😊
 
 📱 Let's connect:
-• [YouTube](https://youtube.com/@DevCicadaY) - I'll share the development process
-• [Twitter](https://twitter.com/devcicaday) - follow for updates
+• [YouTube](https://youtube.com/@DevCicadaQ) - I'll share the development process
+• [Twitter](https://twitter.com/DevCicadaQ) - follow for updates
 
 🐛 Help the project:
 • Try the tool - let me know if it's useful
-• [Found a bug?](https://github.com/DevCicadaY/CursorVIPFeedback/issues/new) - I'm still learning, I'd love to know about any issues!
-• [Have ideas?](https://github.com/DevCicadaY/CursorVIPFeedback/issues/new) - let's make the tool better together!
+• [Found a bug?](https://github.com/DevCicadaQ/CursorVIPFeedback/issues/new) - I'm still learning, I'd love to know about any issues!
+• [Have ideas?](https://github.com/DevCicadaQ/CursorVIPFeedback/issues/new) - let's make the tool better together!
 
 Every piece of feedback is important to me - it helps me learn and improve the project! 🙏
 
-☕ If you find the project useful and want to support - I'll be very grateful! [Buy Me a Coffee](https://buymeacoffee.com/devcicadaym)
+☕ If you find the project useful and want to support - I'll be very grateful! [Buy Me a Coffee](https://buymeacoffee.com/devcicaday)
 
 Thank you for your interest in the project! I hope this tool will be useful for you! 🤗
 
