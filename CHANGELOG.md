@@ -1,5 +1,17 @@
 # Changelog
 
+## 2.1.8
+
+🔧 Contains preparatory changes required for proper implementation of the upcoming major update.
+
+## 2.1.7
+
+🔧 Fixed issue
+
+## 2.1.6
+
+🔧 Fixed issue
+
 ## 2.1.5
 
 🔧 Fixed issue
@@ -63,7 +75,7 @@ If you already have a code — **nothing changes for you**.
 You get full access, no waiting, no limits.
 
 Curious how to get one?  
-Check out the details here: [LIMIT.md](https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
+Check out the details here: [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ---
 
@@ -81,7 +93,7 @@ The project is temporarily paused due to the removal of my YouTube channel. If I
 ## 2.1.0
 
 - 📝 **Terms of Use Updated**  
-  Please review the current version: [LIMIT.md](https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
+  Please review the current version: [LIMIT.md](https://github.com/DevCicadaY/CursorVIPFeedback/blob/main/LIMIT.md)
 
 - ✅ **Added Linux system support**  
   Application tested on Ubuntu 24.04.
@@ -117,7 +129,7 @@ Thank you to everyone who installs and uses the application — your activity in
 If the situation doesn't change in the coming days, I will have to suspend public updates of the application.
 
 ### 📢 How you can help:
-- Subscribe to the [YouTube channel](https://www.youtube.com/@DevCicadaQ)
+- Subscribe to the [YouTube channel](https://www.youtube.com/@DevCicadaY)
 - Like the latest video
 - Leave a short comment
 
