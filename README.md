@@ -21,16 +21,36 @@
 
 </div>
 
+# ⚠️ IMPORTANT NOTICE FOR CURSOR IDE TEAM AND GITHUB ADMINISTRATORS
+
+This is a **research and educational project** created exclusively for learning purposes. I want to clearly state that:
+
+- This is my personal learning experiment for understanding automation and development
+- The project is not intended for commercial use or mass distribution
+- It serves as a practical exercise in programming and automation
+- No malicious intent or harm is implied towards Cursor IDE or their team
+
+If you are from the Cursor IDE team or GitHub administration and have any concerns, please contact me directly at CursorVIPFeedback@proton.me before taking any action. I am open to discussion and ready to make necessary adjustments.
+
 > **About Project**: Cursor VIP is a tool for automating the registration and activation process of Cursor IDE. The project aims to provide automatic account creation and activation, helping developers get quick access to Cursor features. This is my first serious project, and I'm learning as I go!
 
 > **From Author**: Hi! I've just started my journey in development and created this project to explore automation possibilities. I hope this tool will be useful for other developers. I chose Cursor IDE as an excellent example for learning and practice.
 > This is my research project and personal experiment. The code is closed as I'm still learning and developing the project.
 
+> **Special Thanks**: I want to express my sincere gratitude to GitHub for providing such an amazing platform, especially valuable for beginner developers. Special thanks to the following libraries, without which this project would not be possible:
+> - [python-dotenv](https://github.com/theskumar/python-dotenv) - Library for working with environment variables
+> - [cryptography](https://github.com/pyca/cryptography) - Cryptography library for Python
+> - [firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin SDK for Python
+> - [pyarmor](https://github.com/dashingsoft/pyarmor) - Python code obfuscator and protector
+> - [PyQt6](https://pypi.org/project/PyQt6/) - Library for creating graphical interfaces in Python
+> - [requests](https://github.com/psf/requests) - HTTP
+> - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Сборщик Python программ в исполняемые файлы
+> - [DrissionPage](https://github.com/g1879/DrissionPage) - Инструмент для веб-автоматизации
 ---
 
 ## ⚠️ Important Notice
 
-🎓 Cursor VIP is an educational project created to support beginner IT specialists:
+🎓 Cursor VIP is strictly an educational project created to support beginner IT specialists:
 - Students taking their first steps in programming
 - Beginning developers with limited budget
 - Enthusiasts learning the basics with [Cursor IDE](https://www.cursor.com/)
