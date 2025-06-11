@@ -43,9 +43,9 @@ If you are from the Cursor IDE team or GitHub administration and have any concer
 > - [firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin SDK for Python
 > - [pyarmor](https://github.com/dashingsoft/pyarmor) - Python code obfuscator and protector
 > - [PyQt6](https://pypi.org/project/PyQt6/) - Library for creating graphical interfaces in Python
-> - [requests](https://github.com/psf/requests) - HTTP
-> - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Сборщик Python программ в исполняемые файлы
-> - [DrissionPage](https://github.com/g1879/DrissionPage) - Инструмент для веб-автоматизации
+> - [requests](https://github.com/psf/requests) - HTTP library for Python
+> - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Python program compiler into executable files
+> - [DrissionPage](https://github.com/g1879/DrissionPage) - Web automation tool
 ---
 
 ## ⚠️ Important Notice
