@@ -2,7 +2,7 @@
 
 ## 2.1.8
 
-🔧 Contains preparatory changes required for proper implementation of the upcoming major update.
+🔧 Contains preparatory changes required for proper implementation of the upcoming major update
 
 ## 2.1.7
 
