@@ -65,7 +65,7 @@ The tool provides **temporary educational access** to platform features for thos
 - ⚠️ **Do not create** multiple accounts
 - 📚 **For learning** and educational projects only
 
-### 🌟 **My Usage Rules and Support System**
+### 🌟 **Access Rules and Support System**
 
 To get full access to the project, please refer to the [access document](LIMIT.md), which details all the necessary steps for activation, including obtaining the activation code, available bonuses for active users, and ways to support the project.
 
@@ -104,7 +104,7 @@ I'm a beginner in development and very happy you stopped by! Cursor VIP is my fi
 
 ⭐ How to support:
 • Give it a star - it means a lot to me as a beginner developer
-• Tell your friends - maybe someone will find it useful! 😊
+• Tell your friends - someone might find it useful! 😊
 
 📱 Let's connect:
 • [YouTube](https://youtube.com/@DevCicadaQ) - I'll share the development process
