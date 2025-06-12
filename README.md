@@ -38,14 +38,18 @@ If you are from the Cursor IDE team or GitHub administration and have any concer
 > This is my research project and personal experiment. The code is closed as I'm still learning and developing the project.
 
 > **Special Thanks**: I want to express my sincere gratitude to GitHub for providing such an amazing platform, especially valuable for beginner developers. Special thanks to the following libraries, without which this project would not be possible:
-> - [python-dotenv](https://github.com/theskumar/python-dotenv) - Library for working with environment variables
-> - [cryptography](https://github.com/pyca/cryptography) - Cryptography library for Python
-> - [firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin SDK for Python
-> - [pyarmor](https://github.com/dashingsoft/pyarmor) - Python code obfuscator and protector
-> - [PyQt6](https://pypi.org/project/PyQt6/) - Library for creating graphical interfaces in Python
-> - [requests](https://github.com/psf/requests) - HTTP library for Python
-> - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Python program compiler into executable files
+
 > - [DrissionPage](https://github.com/g1879/DrissionPage) - Web automation tool
+> - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Python program compiler into executable files
+> - [requests](https://github.com/psf/requests) - HTTP library for Python
+> - [PyQt6](https://pypi.org/project/PyQt6/) - Library for creating graphical interfaces in Python
+> - [pyarmor](https://github.com/dashingsoft/pyarmor) - Python code obfuscator and protector
+> - [firebase-admin-python](https://github.com/firebase/firebase-admin-python) - Firebase Admin SDK for Python
+> - [cryptography](https://github.com/pyca/cryptography) - Cryptography library for Python
+> - [python-dotenv](https://github.com/theskumar/python-dotenv) - Library for working with environment variables
+> - [psutil](https://github.com/giampaolo/psutil) - Cross-platform library for retrieving information on running processes
+> - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) - Library for parsing HTML and XML
+
 ---
 
 ## ⚠️ Important Notice
