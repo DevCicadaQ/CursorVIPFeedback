@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.2.0
+
+🚀 Radically revised application usage conditions with extended documentation (full information: https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
+
+✨ Added new functional interface windows and solutions
+🛠️ Completely neutralized a critical system vulnerability
+🐞 Comprehensive optimization and elimination of multiple software imperfections
+📞 Implemented a full-featured user feedback system
+
 ## 2.1.8
 
 🔧 Contains preparatory changes required for proper implementation of the upcoming major update
