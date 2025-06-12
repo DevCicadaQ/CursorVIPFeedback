@@ -6,8 +6,11 @@
 [detailed information](https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ✨ **NEW:** Added new functional interface windows and solutions
+
 🛠️ **SECURITY:** Critical system vulnerability completely eliminated
+
 🐞 **OPTIMIZATION:** Comprehensive optimization and fixing of multiple software issues
+
 📞 **SUPPORT:** Fully functional user feedback system implemented
 
 **KNOWN ISSUES** ⚠️:
