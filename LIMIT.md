@@ -45,7 +45,7 @@ Now about the project itself. I developed it for educational purposes, to better
 
 ### Step 1: Join My Community
 1. 📺 **YouTube**: [DevCicadaQ](https://www.youtube.com/@DevCicadaQ) - **Subscribe to my channel**
-2. 🐦 **Twitter/X**: [DevCicadaQ](https://x.com/devcicaday) - **Become my follower**
+2. 🐦 **Twitter/X**: [DevCicadaQ](https://x.com/devcicadaq) - **Become my follower**
 3. ⭐ **GitHub**: [CursorVIPFeedback](https://github.com/DevCicadaY/CursorVIPFeedback) - **Star my repository**
 
 ### Step 2: Subscription Confirmation
