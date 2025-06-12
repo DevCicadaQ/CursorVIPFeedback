@@ -3,7 +3,7 @@
 ## 2.2.0
 
 🚀 **IMPORTANT!** Application usage terms have been radically updated with extended documentation
-(detailed information: https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
+[detailed information](https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ✨ **NEW:** Added new functional interface windows and solutions
 🛠️ **SECURITY:** Critical system vulnerability completely eliminated
