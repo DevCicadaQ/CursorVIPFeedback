@@ -1,4 +1,4 @@
-# 📋 Правила использования
+# 📋 Rules of Use
 
 > [!IMPORTANT]
 > BEFORE USING THE APPLICATION, PLEASE READ THE INFORMATION
