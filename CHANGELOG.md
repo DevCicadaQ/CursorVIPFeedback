@@ -2,7 +2,7 @@
 
 ## 2.2.0
 
-🚀 **IMPORTANT!** Application terms of use have been radically updated with expanded documentation
+🚀 **IMPORTANT!** Application usage terms have been radically updated with extended documentation
 (detailed information: https://github.com/DevCicadaQ/CursorVIPFeedback/blob/main/LIMIT.md)
 
 ✨ **NEW:** Added new functional interface windows and solutions
@@ -12,8 +12,8 @@
 
 **KNOWN ISSUES** ⚠️:
 
-- 🔴 **BUG:** "Program Running" window does not disappear when Stop button is pressed
-- ⚡️ **IMPORTANT:** When pressing CANCEL in the "Program Running" window, application restart is required for proper operation
+- 🔴 **ERROR:** "Program is running" window does not disappear when Stop button is pressed
+- ⚡️ **IMPORTANT:** When pressing CANCEL in the "Program is running" window, a full application restart is required afterwards. All Chrome instances may not close automatically. It is recommended to wait for the program to fully complete.
 
 ## 2.1.8
 
