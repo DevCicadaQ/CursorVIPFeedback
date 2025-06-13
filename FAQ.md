@@ -42,6 +42,10 @@ For Cursor VIP to work correctly, you need to:
 
 Without meeting these requirements, Cursor VIP may work incorrectly or not launch at all.
 
+## What should I do if I'm constantly being asked for email and password and cannot log in?
+
+This issue can occur for several reasons, but in practice, it usually happens due to suspicious traffic detection or temporary access blocking by the Cursor server. The solution is simple - wait a few hours before trying again.
+
 ## Your free trial has expired.
 
 There is currently no direct solution to this situation.
