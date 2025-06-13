@@ -13,7 +13,7 @@
 
 📞 **SUPPORT:** Fully functional user feedback system implemented
 
-**KNOWN ISSUES** ⚠️:
+⚠️ **KNOWN ISSUES** :
 
 - 🔴 **ERROR:** "Program is running" window does not disappear when Stop button is pressed
 - ⚡️ **IMPORTANT:** When pressing CANCEL in the "Program is running" window, a full application restart is required afterwards. All Chrome instances may not close automatically. It is recommended to wait for the program to fully complete.
