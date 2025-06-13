@@ -37,7 +37,7 @@ Now about the project itself. I developed it for educational purposes, to better
   ### 2️⃣ **Project Support Code**
   - 🎬 **Code is divided into parts in video content**
   - 🔄 **Periodic updates** (keep an eye on updates!)
-  - 📅 **Last update: 11.06.2025** ⚡
+  - 📅 **Last update: 13.06.2025** ⚡
   - 📝 **Format**: `DAY14X:2789:DAY14X:DAY14X`
   - ⚠️ **Important**: strictly follow the format when entering
 
