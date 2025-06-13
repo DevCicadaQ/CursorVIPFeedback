@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > BEFORE USING THE APPLICATION, PLEASE READ THE INFORMATION
 
+> [!IMPORTANT]
+> ATTENTION! BEFORE USING THE APPLICATION, CAREFULLY READ THE CRITICALLY IMPORTANT INFORMATION. THIS PROJECT IS IN AN ACTIVE DEVELOPMENT STAGE AND MAY CONTAIN TECHNICAL FEATURES AND MINOR INACCURACIES. BY STARTING TO USE THE APPLICATION, YOU FULLY ACKNOWLEDGE AND ACCEPT PERSONAL RESPONSIBILITY FOR POSSIBLE TIME COSTS AND TECHNICAL INCONVENIENCES. NO CLAIMS AGAINST THE DEVELOPER ARE ACCEPTED, AS THE PROJECT IS EXCLUSIVELY AN EDUCATIONAL INITIATIVE IN THE STAGE OF ACTIVE AND EXPERIMENTAL DEVELOPMENT.
+
 **Hello!** First and foremost, I strongly recommend purchasing the official subscription to [Cursor IDE](https://www.cursor.com/pricing) before using my application. For students, there is a special [subscription program](https://www.cursor.com/students).
 
 **It's important to understand** that you **should not look for ways to bypass restrictions**, especially when it comes to a **high-quality product**. If you are in a **difficult financial situation** or live in a **country with a low income level**, you can use my application, but I ask you to approach this **responsibly**. The application is created for those who **really cannot afford a monthly subscription**. If you have the opportunity to purchase an official subscription - **please do so**.
